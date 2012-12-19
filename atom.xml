@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Samiur Rahman]]></title>
+  <link href="http://samiur.github.com/atom.xml" rel="self"/>
+  <link href="http://samiur.github.com/"/>
+  <updated>2012-12-18T21:48:26-08:00</updated>
+  <id>http://samiur.github.com/</id>
+  <author>
+    <name><![CDATA[Samiur Rahman]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
