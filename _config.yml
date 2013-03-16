@@ -2,13 +2,13 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://samiur.github.com
+url: http://www.samiurr.com
 title: Samiur Rahman
 subtitle: 
 author: Samiur Rahman
 simple_search: http://google.com/search
 description:
-email: samiur1204@gmail.com
+email: me@samiurr.com
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -20,7 +20,7 @@ date_format: "ordinal"
 subscribe_rss: /atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
-email:
+# email:
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -103,4 +103,9 @@ disqus_show_comment_count: false
 google_analytics_tracking_id:
 
 # Facebook Like
-facebook_like: false
+facebook_like: true
+
+# Instagram
+instagram_user: 50796442
+instagram_client: 7bcea1d1e4ff46a883fff3ab2b2840c7
+instagram_access_token: 50796442.7bcea1d.786fbe1b0ab842deb8c9da6bc6079257

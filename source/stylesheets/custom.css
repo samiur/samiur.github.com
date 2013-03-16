@@ -1,0 +1,25 @@
+.navbar-inner .container {
+  width: 940px;
+}
+
+.navbar {
+  margin-bottom: 0px;
+}
+
+#hero-inner h1 {
+  line-height: 60px;
+}
+
+.navbar-form input {
+  height: 12px;
+}
+
+.navbar-inner {
+  border-radius: 0;
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+}
+
+img {
+  margin: 0 auto;
+}
