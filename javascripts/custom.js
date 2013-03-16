@@ -42,6 +42,20 @@ $(function(){
     }
   });
 
+    $('.flickr').jflickrfeed({
+            limit: 4,
+            qstrings: {
+                id: '93757975@N03'
+            },
+            itemTemplate: '<li class="span2">'+
+                    '<a rel="colorbox" href="{{image}}" title="{{title}}" class="thumbnail">' +
+                    '<img src="{{image_m}}" alt="{{title}}" />' +
+                    '</a>' +
+                    '</li>'
+    }, function(data) {
+            $('.flickr a').colorbox();
+    });
+
   $('#instabutton').on('click', function(){
     var button = $(this);
     var text = button.text();
@@ -71,7 +85,7 @@ $(function(){
     user: githubInfo.data('github-user'),
     count: githubInfo.data('github-repo-count'),
     skip_forks: githubInfo.data('github-skip-forks'),
-    target: githubInfo 
+    target: githubInfo
   });
 
   var $container = $('#post-container');
