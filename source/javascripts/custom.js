@@ -48,8 +48,8 @@ $(function(){
                 id: '93757975@N03'
             },
             itemTemplate: '<li class="span2">'+
-                    '<a rel="colorbox" href="{{image}}" title="{{title}}" class="thumbnail">' +
-                    '<img src="{{image_m}}" alt="{{title}}" />' +
+                    '<a rel="colorbox" href="{{image_b}}" title="{{title}}" class="thumbnail">' +
+                    '<img src="{{image_b}}" alt="{{title}}" />' +
                     '</a>' +
                     '</li>'
     }, function(data) {
