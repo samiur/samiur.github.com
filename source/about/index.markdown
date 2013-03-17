@@ -5,6 +5,7 @@ comments: false
 sharing: false
 footer: true
 ---
+<img class="img-polaroid pull-left" src="/images/samiurra.jpg" width="150px" style="margin-right: 10px;"/>
 
 I consider myself to be a citizen of the world. My father was a
 diplomat and I've lived in 5 countries, and have traveled to over
