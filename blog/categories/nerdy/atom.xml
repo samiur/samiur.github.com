@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Nerdy | Samiur Rahman]]></title>
+  <link href="http://www.samiurr.com/blog/categories/nerdy/atom.xml" rel="self"/>
+  <link href="http://www.samiurr.com/"/>
+  <updated>2013-03-17T15:42:13-07:00</updated>
+  <id>http://www.samiurr.com/</id>
+  <author>
+    <name><![CDATA[Samiur Rahman]]></name>
+    <email><![CDATA[me@samiurr.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Alcohol Lab]]></title>
+    <link href="http://www.samiurr.com/blog/2010/12/20/alcohol-lab/"/>
+    <updated>2010-12-20T22:42:00-08:00</updated>
+    <id>http://www.samiurr.com/blog/2010/12/20/alcohol-lab</id>
+    <content type="html"><![CDATA[<p>The avenue to an exciting new field of study has finally been opened. For the first time in almost two millenia we've been able to objectively measure the effects of alcohol on a persons ability to perform tasks. We can only do this because of the metric provided to us by the great developers at zetamac.com, whose arithmetic game is what we use for this experiment.</p>
+
+<!-- more -->
+
+
+<p>We take 2 test subjects (we could only find 2 subjects who agreed to take part in this risky and incredibly nerdy venture) and compare their score on the Zetamac Arithmetic game, a game in which players answer as many basic addition, subtraction, multiplication and division questions within 2 minutes. The web apps update speed leaves almost no room for error, and we can assign an uncertainty of ±2 for the score. We compare the score from the 2 subjects as they take shots of rum and vodka, and after each shot, they redo the arithmetic game. We assume here that rum and vodka contain the same alcohol percentage. An uncertainty of ±0.2 is assigned to the shot amounts because of inconsistencies in pouring of the alcohol.</p>
+
+<table class="table table-bordered">
+  <thead>
+    <tr>
+      <th>Round</th>
+      <th>Subject A</th>
+      <th>Subject B</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>0</td>
+      <td>63</td>
+      <td>56</td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>67</td>
+      <td>52</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>60</td>
+      <td>47</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>66</td>
+      <td>44</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>59</td>
+      <td>56</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>65</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>60</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>65</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+
+<p>From the collected data, it can be seen that the compatibility of the test subjects was not optimal. Subject B did not want to do more than three shots, and this caused a scarceness of data points. In Science, we call subject B a “bitch.” We will define the meaning of this word in the glossary of the report.</p>
+
+<p>We try therefore to model what would happen to both subjects in subsequent shots. We see that Subject B was following a linear model with a negative slope; however, Subject A’s performance was erratic and difficult for us to explain. The points almost formed a sinusoidal function. We therefore attempted to model Subject A’s predicted performances with a sinusoidal function. Here are the results:</p>
+
+<p><img class="img-polaroid pull-left" src="http://www.samiurr.com/images/alcohollab.jpg" style="margin: 12px 0" width="554px"/></p>
+
+<p>We see, as expected, that Subject B reaches score of 0 (equivalent to death) at about 13-14 drinks. However, the sinusoidal function that models Subject A’s performance shows a rather incredible result. According to the model, Subject A will continue to perform at about his average, no matter how much he drinks. This in itself has amazing implications. This experiment maybe the first step to show that alcoholism is perfectly fine for certain individuals.</p>
+
+<p>We conclude this experiment in great glee. We are currently working on a second experiment, the effects of binge drinking on sniping performance (in video games of course). We also plan on doing studies with more test subjects, bribing them with free alcohol, and then using those results to compare with our initial test data. We hope to prove conclusively that alcoholism is not necessarily detrimental to health and sanity. We will be back soon to report on our findings.</p>
+]]></content>
+  </entry>
+  
+</feed>
