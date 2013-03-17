@@ -28,5 +28,6 @@ the highly inefficient spectrum allocation methods used in the field today.
 I am also interested in the development of new network algorithms for 
 communications in ad hoc network environments. 
 
-In Computer Science, I am interested in new and innovative software development 
-that uses Machine Learning, Artificial Intelligence and complex algorithms.
+In Computer Science, I am interested in new and innovative software 
+development that uses Machine Learning, Artificial Intelligence and 
+complex algorithms.
